@@ -1,0 +1,26 @@
+/*---font---*/
+@import url('https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800');
+/*---bootstap.CSS ---*/
+@import url("../css/bootstrap.min.css");
+/*---mega menu .CSS ---*/
+@import url("../plugin/megamenu/css/hover-dropdown-menu.css");
+ /*---fancybox.CSS ---*/
+@import url("../plugin/fancyBox/css/jquery.fancybox.css");
+/*---owl-carousal.CSS ---*/
+@import url("../plugin/owl-carousel/css/owl.carousel.css");
+@import url("../plugin/owl-carousel/css/owl.theme.default.css");
+/*---fontawesome.CSS  font ---*/
+@import url("../plugin/font-awesome/css/font-awesome.min.css");
+/* theme effect hover CSS*/
+@import url("../plugin/hover-effect/css/themeHover.css");
+@import url("../plugin/mixItUp/css/mixitup.css");
+
+
+/*---STYLE.CSS inluad style---*/
+@import url("../css/style.css");
+
+/*---responsive.CSS inluad style---*/
+@import url("../css/responsive.css");
+
+/*---color.CSS inluad color---*/
+@import url("../css/color.css");

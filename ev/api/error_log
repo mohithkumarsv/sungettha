@@ -1,0 +1,144 @@
+[19-Jan-2018 18:13:46 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'svarksdb'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/solardemo/api/api/dbConnect.php on line 13
+[19-Jan-2018 18:13:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/solardemo/api/api/dbHandler.php on line 14
+[19-Jan-2018 18:13:46 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/solardemo/api/api/dbHandler.php on line 14
+[19-Jan-2018 18:18:39 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'svarksdb'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/solardemo/api/api/dbConnect.php on line 13
+[19-Jan-2018 18:18:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/solardemo/api/api/dbHandler.php on line 14
+[19-Jan-2018 18:18:39 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/solardemo/api/api/dbHandler.php on line 14
+[24-Jan-2018 02:39:41 UTC] PHP Warning:  unlink(upload/Share-Layout.jpg): No such file or directory in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1144
+[05-Feb-2018 18:21:44 UTC] PHP Notice:  Undefined index: userName in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1010
+[05-Feb-2018 18:21:44 UTC] PHP Notice:  Undefined index: password in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1011
+[05-Feb-2018 18:23:28 UTC] PHP Notice:  Undefined index: userName in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1010
+[05-Feb-2018 18:23:28 UTC] PHP Notice:  Undefined index: password in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1011
+[05-Feb-2018 18:23:34 UTC] PHP Notice:  Undefined index: userName in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1010
+[05-Feb-2018 18:23:34 UTC] PHP Notice:  Undefined index: password in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1011
+[05-Feb-2018 18:23:40 UTC] PHP Notice:  Undefined index: userName in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1010
+[05-Feb-2018 18:23:40 UTC] PHP Notice:  Undefined index: password in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1011
+[05-Feb-2018 18:24:36 UTC] PHP Notice:  Undefined index: userName in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1010
+[05-Feb-2018 18:24:36 UTC] PHP Notice:  Undefined index: password in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1011
+[05-Feb-2018 18:24:52 UTC] PHP Notice:  Undefined index: userName in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1010
+[05-Feb-2018 18:24:52 UTC] PHP Notice:  Undefined index: password in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1011
+[05-Feb-2018 18:25:11 UTC] PHP Notice:  Undefined index: userName in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1010
+[05-Feb-2018 18:25:11 UTC] PHP Notice:  Undefined index: password in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1011
+[05-Feb-2018 18:25:23 UTC] PHP Notice:  Undefined index: userName in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1010
+[05-Feb-2018 18:25:23 UTC] PHP Notice:  Undefined index: password in /home/kiranvishwa/public_html/solardemo/api/api/product.php on line 1011
+[07-Aug-2018 02:49:11 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[07-Aug-2018 02:49:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Aug-2018 02:49:11 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Aug-2018 20:59:52 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[07-Aug-2018 20:59:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Aug-2018 20:59:52 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:11:42 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[14-Aug-2018 12:11:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:11:42 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:11:43 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[14-Aug-2018 12:11:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:11:43 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:11:45 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[14-Aug-2018 12:11:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:11:45 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:12:29 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[14-Aug-2018 12:12:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:12:29 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:12:31 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[14-Aug-2018 12:12:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[14-Aug-2018 12:12:31 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[24-Aug-2018 08:08:58 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[24-Aug-2018 08:08:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[24-Aug-2018 08:08:59 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[24-Aug-2018 18:55:12 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[24-Aug-2018 18:55:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[24-Aug-2018 18:55:12 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[25-Aug-2018 08:25:08 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[25-Aug-2018 08:25:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[25-Aug-2018 08:25:08 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[25-Aug-2018 08:30:48 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[25-Aug-2018 08:30:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[25-Aug-2018 08:30:48 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Sep-2018 18:58:37 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[07-Sep-2018 18:58:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Sep-2018 18:58:37 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Sep-2018 18:58:45 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[07-Sep-2018 18:58:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Sep-2018 18:58:45 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Sep-2018 18:59:55 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[07-Sep-2018 18:59:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[07-Sep-2018 18:59:55 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 06:34:26 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:34:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:26 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:29 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:34:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:29 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:37 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:34:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:37 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:34:47 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:47 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:56 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:34:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:34:56 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:35:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:35:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:35:04 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:35:09 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:35:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:35:09 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:35:53 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:35:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:35:53 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:35:55 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 06:35:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 06:35:55 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:04:32 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:04:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:04:32 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:04:34 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:04:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:04:34 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:04:38 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:04:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:04:38 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:04:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:04:47 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:04:47 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:05:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:05:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:05:40 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:06:22 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:06:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 07:06:22 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 07:06:27 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:06:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 07:06:27 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 07:06:34 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:06:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 07:06:34 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 07:06:44 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:06:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 07:06:44 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[08-Sep-2018 07:10:55 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:10:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:10:55 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:11:21 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:11:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:11:21 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:11:32 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:11:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:11:32 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:11:34 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:11:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:11:34 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:11:41 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[08-Sep-2018 07:11:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[08-Sep-2018 07:11:41 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[21-Sep-2018 04:38:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[21-Sep-2018 04:38:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[21-Sep-2018 04:38:04 UTC] PHP Warning:  DbHandler::getRecords(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 21
+[22-Sep-2018 10:16:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1130): Host 'localhost' is not allowed to connect to this MySQL server in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[22-Sep-2018 10:16:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[22-Sep-2018 10:16:59 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[22-Sep-2018 10:22:20 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'dracs'@'localhost' (using password: YES) in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbConnect.php on line 13
+[22-Sep-2018 10:22:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[22-Sep-2018 10:22:20 UTC] PHP Warning:  DbHandler::getOneRecord(): Couldn't fetch mysqli in /home/kiranvishwa/public_html/sungeetha.com/api/api/dbHandler.php on line 14
+[30-Jun-2019 13:53:26 UTC] PHP Warning:  unlink(upload/Thermann-Solar-Heat-Pump.jpg): No such file or directory in /home/kiranvishwa/public_html/sungeetha.com/api/api/product.php on line 1128

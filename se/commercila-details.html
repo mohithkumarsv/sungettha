@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!--[if IE]>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+        <![endif]-->
+        <meta name="keywords" content="HTML5 Template" />
+        <meta name="description" content="Be-Photography | Creative Photography Agency, Portfolio and Multipurpose HTML5 Responsive Template" />
+        <meta name="author" content="itgeeksin.com" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+         <title>solar</title>
+        <!-- Bootstrap -->
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
+        <!-- Master Css -->
+        <link href="assets/css/main.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <style>
+	#header.sticky-header {
+    background-color: #000;
+    top: 0;
+    position: fixed;
+    border-bottom: 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+    z-index: 999;
+}
+       
+
+-------------------------------- */
+.cd-container {
+  /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
+  width: 90%;
+  max-width: 768px;
+  margin: 0 auto;
+}
+.cd-container::after {
+  /* clearfix */
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* -------------------------------- 
+
+xnugget info 
+
+-------------------------------- */
+.cd-nugget-info {
+  display: inline-block;
+  padding: 1em 1.4em 1em;
+  margin-top: 20px;
+  background: #15a48f;
+  font-size: 14px;
+  font-size: 0.875rem;
+  border-radius: .25em;
+  color: #FFF;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+.cd-nugget-info .cd-nugget-info-arrow {
+  fill: white;
+}
+.cd-nugget-info span {
+  vertical-align: middle;
+  display: inline-block;
+}
+.cd-nugget-info span svg {
+  display: block;
+}
+.no-touch .cd-nugget-info:hover {
+  background: #18bba3;
+}
+
+/* -------------------------------- 
+
+xcarbonads 
+
+-------------------------------- */
+#carbonads-container,
+#ui8ads-container {
+  position: fixed;
+  right: 40px;
+  top: 100px;
+  width: 180px;
+  display: none;
+  z-index: 1;
+}
+#carbonads-container .close-carbon-adv,
+#carbonads-container .close-ui8-adv,
+#ui8ads-container .close-carbon-adv,
+#ui8ads-container .close-ui8-adv {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: 100%;
+  background: rgba(56, 56, 56, 0.8);
+  text-indent: 100%;
+  overflow: hidden;
+  width: 32px;
+  height: 32px;
+  border-radius: 3px 0 0 3px;
+}
+#carbonads-container .close-carbon-adv:hover,
+#carbonads-container .close-ui8-adv:hover,
+#ui8ads-container .close-carbon-adv:hover,
+#ui8ads-container .close-ui8-adv:hover {
+  background: #383838;
+}
+#carbonads-container .close-carbon-adv::after, #carbonads-container .close-carbon-adv::before,
+#carbonads-container .close-ui8-adv::after,
+#carbonads-container .close-ui8-adv::before,
+#ui8ads-container .close-carbon-adv::after,
+#ui8ads-container .close-carbon-adv::before,
+#ui8ads-container .close-ui8-adv::after,
+#ui8ads-container .close-ui8-adv::before {
+  content: '';
+  background-color: #fff;
+  height: 2px;
+  width: 14px;
+  position: absolute;
+  top: 14px;
+  left: 9px;
+}
+#carbonads-container .close-carbon-adv::after,
+#carbonads-container .close-ui8-adv::after,
+#ui8ads-container .close-carbon-adv::after,
+#ui8ads-container .close-ui8-adv::after {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+#carbonads-container .close-carbon-adv::before,
+#carbonads-container .close-ui8-adv::before,
+#ui8ads-container .close-carbon-adv::before,
+#ui8ads-container .close-ui8-adv::before {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+#carbonads-container .carbonad,
+#carbonads-container .ui8ad,
+#ui8ads-container .carbonad,
+#ui8ads-container .ui8ad {
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  width: 100%;
+  height: auto;
+  padding: 14px;
+  text-align: center;
+  border-radius: 0 3px 3px 3px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+#carbonads-container .carbonad .carbonad-image img,
+#carbonads-container .carbonad .ui8ad-image img,
+#carbonads-container .ui8ad .carbonad-image img,
+#carbonads-container .ui8ad .ui8ad-image img,
+#ui8ads-container .carbonad .carbonad-image img,
+#ui8ads-container .carbonad .ui8ad-image img,
+#ui8ads-container .ui8ad .carbonad-image img,
+#ui8ads-container .ui8ad .ui8ad-image img {
+  width: 130px;
+}
+#carbonads-container .carbonad .carbonad-image img,
+#carbonads-container .ui8ad .carbonad-image img,
+#ui8ads-container .carbonad .carbonad-image img,
+#ui8ads-container .ui8ad .carbonad-image img {
+  margin: 0 0 10px 10px;
+}
+##carbonads-container .carbonad .ui8ad-image img,
+#carbonads-container .carbonad .carbon-img img,
+#carbonads-container .ui8ad .ui8ad-image img,
+#carbonads-container .ui8ad .carbon-img img,
+#ui8ads-container .carbonad .ui8ad-image img,
+#ui8ads-container .carbonad .carbon-img img,
+#ui8ads-container .ui8ad .ui8ad-image img,
+#ui8ads-container .ui8ad .carbon-img img {
+  margin: 0 10px 10px;
+  width: 130px;
+}
+#carbonads-container .carbonad .carbon-text, #carbonads-container .carbonad .carbonad-tag,
+#carbonads-container .carbonad .carbon-poweredby,
+#carbonads-container .carbonad .ui8ad-text, #carbonads-container .carbonad .ui8ad-tag,
+#carbonads-container .ui8ad .carbon-text,
+#carbonads-container .ui8ad .carbonad-tag,
+#carbonads-container .ui8ad .carbon-poweredby,
+#carbonads-container .ui8ad .ui8ad-text,
+#carbonads-container .ui8ad .ui8ad-tag,
+#ui8ads-container .carbonad .carbon-text,
+#ui8ads-container .carbonad .carbonad-tag,
+#ui8ads-container .carbonad .carbon-poweredby,
+#ui8ads-container .carbonad .ui8ad-text,
+#ui8ads-container .carbonad .ui8ad-tag,
+#ui8ads-container .ui8ad .carbon-text,
+#ui8ads-container .ui8ad .carbonad-tag,
+#ui8ads-container .ui8ad .carbon-poweredby,
+#ui8ads-container .ui8ad .ui8ad-text,
+#ui8ads-container .ui8ad .ui8ad-tag {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+#carbonads-container .carbonad .carbon-wrap,
+#carbonads-container .carbonad .ui8ad-text,
+#carbonads-container .ui8ad .carbon-wrap,
+#carbonads-container .ui8ad .ui8ad-text,
+#ui8ads-container .carbonad .carbon-wrap,
+#ui8ads-container .carbonad .ui8ad-text,
+#ui8ads-container .ui8ad .carbon-wrap,
+#ui8ads-container .ui8ad .ui8ad-text {
+  display: block;
+  width: 100%;
+  padding: 0;
+}
+#carbonads-container .carbonad .carbon-wrap a,
+#carbonads-container .carbonad .ui8ad-text a,
+#carbonads-container .ui8ad .carbon-wrap a,
+#carbonads-container .ui8ad .ui8ad-text a,
+#ui8ads-container .carbonad .carbon-wrap a,
+#ui8ads-container .carbonad .ui8ad-text a,
+#ui8ads-container .ui8ad .carbon-wrap a,
+#ui8ads-container .ui8ad .ui8ad-text a {
+  color: #00a58f;
+  font-size: 13px;
+  font-weight: bold;
+}
+.no-touch #carbonads-container .carbonad .carbon-wrap a:hover, .no-touch
+#carbonads-container .carbonad .ui8ad-text a:hover, .no-touch
+#carbonads-container .ui8ad .carbon-wrap a:hover, .no-touch
+#carbonads-container .ui8ad .ui8ad-text a:hover, .no-touch
+#ui8ads-container .carbonad .carbon-wrap a:hover, .no-touch
+#ui8ads-container .carbonad .ui8ad-text a:hover, .no-touch
+#ui8ads-container .ui8ad .carbon-wrap a:hover, .no-touch
+#ui8ads-container .ui8ad .ui8ad-text a:hover {
+  text-decoration: underline;
+}
+#carbonads-container .carbonad .carbonad-tag,
+#carbonads-container .carbonad .carbon-poweredby,
+#carbonads-container .carbonad .ui8ad-tag,
+#carbonads-container .ui8ad .carbonad-tag,
+#carbonads-container .ui8ad .carbon-poweredby,
+#carbonads-container .ui8ad .ui8ad-tag,
+#ui8ads-container .carbonad .carbonad-tag,
+#ui8ads-container .carbonad .carbon-poweredby,
+#ui8ads-container .carbonad .ui8ad-tag,
+#ui8ads-container .ui8ad .carbonad-tag,
+#ui8ads-container .ui8ad .carbon-poweredby,
+#ui8ads-container .ui8ad .ui8ad-tag {
+  margin-top: 5px;
+  color: #3a393f;
+}
+#carbonads-container .carbonad .carbonad-tag a,
+#carbonads-container .carbonad .carbon-poweredby a,
+#carbonads-container .carbonad .ui8ad-tag a,
+#carbonads-container .ui8ad .carbonad-tag a,
+#carbonads-container .ui8ad .carbon-poweredby a,
+#carbonads-container .ui8ad .ui8ad-tag a,
+#ui8ads-container .carbonad .carbonad-tag a,
+#ui8ads-container .carbonad .carbon-poweredby a,
+#ui8ads-container .carbonad .ui8ad-tag a,
+#ui8ads-container .ui8ad .carbonad-tag a,
+#ui8ads-container .ui8ad .carbon-poweredby a,
+#ui8ads-container .ui8ad .ui8ad-tag a {
+  color: #3a393f;
+}
+#carbonads-container .carbonad .carbonad-tag a:hover,
+#carbonads-container .carbonad .carbon-poweredby a:hover,
+#carbonads-container .carbonad .ui8ad-tag a:hover,
+#carbonads-container .ui8ad .carbonad-tag a:hover,
+#carbonads-container .ui8ad .carbon-poweredby a:hover,
+#carbonads-container .ui8ad .ui8ad-tag a:hover,
+#ui8ads-container .carbonad .carbonad-tag a:hover,
+#ui8ads-container .carbonad .carbon-poweredby a:hover,
+#ui8ads-container .carbonad .ui8ad-tag a:hover,
+#ui8ads-container .ui8ad .carbonad-tag a:hover,
+#ui8ads-container .ui8ad .carbon-poweredby a:hover,
+#ui8ads-container .ui8ad .ui8ad-tag a:hover {
+  color: #00a58f;
+}
+#carbonads-container .carbonad .ui8ad-tag,
+#carbonads-container .carbonad .carbon-poweredby,
+#carbonads-container .ui8ad .ui8ad-tag,
+#carbonads-container .ui8ad .carbon-poweredby,
+#ui8ads-container .carbonad .ui8ad-tag,
+#ui8ads-container .carbonad .carbon-poweredby,
+#ui8ads-container .ui8ad .ui8ad-tag,
+#ui8ads-container .ui8ad .carbon-poweredby {
+  display: inline-block;
+  font-size: 11px;
+  line-height: 15px;
+}
+@media only screen and (min-width: 1170px) {
+  #carbonads-container,
+  #ui8ads-container {
+    display: block;
+  }
+}
+
+/* -------------------------------- 
+
+Main components 
+
+-------------------------------- */
+.cd-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background: #f35535;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  z-index: 3;
+}
+.cd-header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.cd-header #cd-logo {
+  float: left;
+  margin: 13px 0 0 5%;
+}
+.cd-header #cd-logo img {
+  display: block;
+}
+@media only screen and (min-width: 768px) {
+  .cd-header {
+    height: 70px;
+  }
+  .cd-header #cd-logo {
+    margin: 23px 0 0 5%;
+  }
+}
+
+.cd-main-nav {
+  float: right;
+  margin-right: 5%;
+  width: 44px;
+  height: 100%;
+  background: url("../img/blog/blog-1-1.jpg") no-repeat center center;
+  background-size: 44px 44px;
+  cursor: pointer;
+}
+.cd-main-nav ul {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  -webkit-transform: translateY(-100%);
+  -moz-transform: translateY(-100%);
+  -ms-transform: translateY(-100%);
+  -o-transform: translateY(-100%);
+  transform: translateY(-100%);
+}
+.cd-main-nav ul.is-visible {
+  -webkit-transform: translateY(50px);
+  -moz-transform: translateY(50px);
+  -ms-transform: translateY(50px);
+  -o-transform: translateY(50px);
+  transform: translateY(50px);
+}
+.cd-main-nav a {
+  display: block;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 5%;
+  background: #2e313d;
+  border-top: 1px solid #353846;
+  color: #FFF;
+}
+@media only screen and (min-width: 768px) {
+  .cd-main-nav {
+    width: auto;
+    height: auto;
+    background: none;
+    cursor: auto;
+  }
+  .cd-main-nav ul {
+    position: static;
+    width: auto;
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0);
+    line-height: 70px;
+  }
+  .cd-main-nav ul.is-visible {
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0);
+  }
+  .cd-main-nav li {
+    display: inline-block;
+    margin-left: 1em;
+  }
+  .cd-main-nav a {
+    display: inline-block;
+    height: auto;
+    line-height: normal;
+    background: transparent;
+    padding: .6em 1em;
+    border-top: none;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
+
+#cd-intro {
+  position: relative;
+  height: 300px;
+  margin-top: 50px;
+  z-index: 1;
+}
+#cd-intro #cd-intro-background {
+  height: 100%;
+  width: 100%;
+  background: url("assets/img/background/commerical/solar-panel-rooftop-sunetric-kukui_0.jpg") no-repeat center center;
+  background-size: cover;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+#cd-intro #cd-intro-tagline {
+  position: absolute;
+  width: 90%;
+  max-width: 1170px;
+  left: 50%;
+  top: 50%;
+  bottom: auto;
+  right: auto;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -o-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+}
+#cd-intro h1 {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #FFF;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+@media only screen and (min-width: 768px) {
+  #cd-intro {
+    height: 400px;
+    margin-top: 70px;
+  }
+  #cd-intro h1 {
+    font-size: 30px;
+    font-size: 1.875rem;
+  }
+}
+@media only screen and (min-width: 1170px) {
+  #cd-intro {
+    position: fixed;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    height: 500px;
+    margin-top: 0;
+  }
+  #cd-intro .cd-intro-background {
+    -webkit-transform-origin: 50% 100%;
+    -moz-transform-origin: 50% 100%;
+    -ms-transform-origin: 50% 100%;
+    -o-transform-origin: 50% 100%;
+    transform-origin: 50% 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  #cd-intro h1 {
+    font-size: 32px;
+    font-size: 2rem;
+  }
+}
+
+.cd-content {
+  position: relative;
+  padding: 2em 0;
+  line-height: 1.6;
+  color: #65676f;
+  background-color: #fff;
+  z-index: 2;
+}
+.cd-content::before {
+  /* subtle gradient right above the main content */
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background: -webkit-linear-gradient( bottom , rgba(46, 49, 61, 0.5), rgba(46, 49, 61, 0));
+  background: linear-gradient(to top, rgba(46, 49, 61, 0.5), rgba(46, 49, 61, 0));
+}
+.no-cssgradients .cd-content::before {
+  /* use Modernizr to detect whether the browser supports or not css gradients */
+  display: none;
+}
+.cd-content h2 {
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+.cd-content p {
+  margin: 1em 0;
+}
+@media only screen and (min-width: 768px) {
+  .cd-content {
+    line-height: 1.8;
+  }
+  .cd-content h2 {
+    font-size: 30px;
+    font-size: 1.875rem;
+  }
+}
+@media only screen and (min-width: 1170px) {
+  .cd-content {
+    padding: 4em 0;
+    margin-top: 570px;
+  }
+  .cd-content p {
+    font-size: 20px;
+    font-size: 1.25rem;
+  }
+}
+        @media only screen and (min-width: 1170px) {
+  #cd-intro {
+    position: fixed;
+    top: 70px;
+    left: 0;
+  }
+  #cd-intro .cd-intro-background {
+    transform-origin: 50% 100%;
+  }
+}
+        .h3, h3 {
+    font-size: 19px;
+}
+    img.prjectimages {
+    width: 320px;
+    height: 233px;
+}
+    </style>
+        <style>
+    img.galleryimage {
+    width: 100%;
+    height: 350px;
+    padding: 10px;
+}
+        .style_prevu_kit
+{
+  display: inline-block;
+    border: 0;
+    width: 70%;
+    padding: 32px;
+    font-size: 109px;
+    color: white;
+    border-radius: 20px;
+    height: 210px;
+    position: relative;
+    -webkit-transition: all 100ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 100ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 100ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 100ms ease-in;
+    transform: scale(1);
+    TEXT-ALIGN: -webkit-center;
+}
+.style_prevu_kit:hover
+{
+    box-shadow: 0px 0px 150px #000000;
+    z-index: 2;
+    -webkit-transition: all 100ms ease-in;
+    -webkit-transform: scale(1.5);
+    -ms-transition: all 100ms ease-in;
+    -ms-transform: scale(1.5);   
+    -moz-transition: all 100ms ease-in;
+    -moz-transform: scale(1.5);
+    transition: all 100ms ease-in;
+    transform: scale(1.5);
+}
+    </style>
+    </head>
+    <body>
+        <!--//================preloader  start==============//--> 
+  
+        <!--//================preloader  end==============//-->  
+        <!--//================Header start==============//-->  
+    <header id="header">
+        <div id="main-menu" class="wa-main-menu">
+            <!-- Menu -->
+            <div class="wathemes-menu relative">
+                <!-- navbar -->
+                <div class="navbar navbar-default mar0" role="navigation">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-12 head-box">
+                                <div class="navbar-header">
+                                    <!-- Button For Responsive toggle -->
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                    <!-- Logo -->
+                                    <a class="navbar-brand" href="../index.html">
+
+                                        <img class="site_logo" alt="Site Logo" src="assets/img/sun1.jpg" />
+                                    </a>
+
+                                </div>
+                                <!-- Navbar Collapse -->
+                                <div class="navbar-collapse collapse">
+                                    <ul class="nav navbar-nav">
+                                        <li class="active">
+                                            <a href="index.html">Home</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="domentic.html">Domestic</a>
+                                        </li>
+                                        <li>
+                                            <a href="commercila.html">Commercial</a>
+                                        </li>
+                                        <li>
+                                            <a href="power.html">Power Plant</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="contact.php">Contact</a>
+                                        </li>
+                                        <li><a  class="btn btn-success" href="../ev/getstart.php">Get Started</a></li>
+                                           <li >
+                                            <a href="../ev/index.php">Electric vehicles Home</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <!-- navbar-collapse -->
+                            </div>
+                            <!-- col-md-12 -->
+                        </div>
+                        <!-- row -->
+                    </div>
+                    <!-- container -->
+                </div>
+                <!-- navbar -->
+
+            </div>
+            <!--  Menu -->
+        </div>
+    </header>
+      <div class="clearfix"></div>
+       
+        <!--//================Portfolio start==============//-->
+      <section id="cd-intro">
+		<div id="cd-intro-background"></div>
+		<div id="cd-intro-tagline">
+			
+		</div> 
+	</section> 
+        <section>
+            <div  class="container">
+                <div class="row">
+	<main class="cd-content">
+		<div class="cd-container">
+			 <section class="padT100 " >
+              <div class="container-furid">
+                <div class="row">
+                    <div class="col-md-4 col-xs-12 col-sm-4 blue ">
+                        <div class="commerciler text-center ">
+                            <h3 style="color:#56bfdf">Say no for dependency</h3>
+                            <br>
+                            <p>Your business shouldn’t sink in electricity bills. Sungeetha Green energy solutions can help you in taking your powers back and feel independent.
+                            We suggest you the optimum size and design of power system which will offset your dependency on grid. We help you in knowing the facilities provided by the government to recover your investment and tax saving opportunities</p>
+                            
+							
+                        </div>
+						<div class="bottobox">
+						<a href="#" target="_self" class="bluebutton" role="button">
+							<span class="fl-button-text">REQUEST A QUOTE</span>
+					</a>
+						</div>
+                     </div>
+					  <div class="col-md-4 col-xs-12 col-sm-4 green ">
+                        <div class="commerciler text-center">
+                           <h3 style="color:#b6c46c">Only the best for you</h3>  <br>
+							<p>We use world best brands to ensure continuity, efficiency and quality. Partnering with global best brands and decades of experience makes us to deliver long term satisfaction in you.</p>
+							
+                        </div>
+						<div class="bottobox">
+						<a href="#" target="_self" class="greenbutton" role="button">
+							<span class="fl-button-text">REQUEST A QUOTE</span>
+					</a>
+						</div>
+                     </div>
+					  <div class="col-md-4 col-xs-12 col-sm-4 yellow ">
+                        <div class="commerciler text-center">
+                            <h3 style="color:#d1c46f">You name it we do it</h3>  <br>
+							<p>We understand that you might have a unique requirement, no problem at all..!!
+We love to listen to your requirement and put our best to serve you. Though we can’t challenge physics, we can definitely make use of it to the maximum.
+</p>
+							
+                        </div>
+						<div class="bottobox">
+						<a href="#" target="_self" class="yellowbutton" role="button">
+							<span class="fl-button-text">REQUEST A QUOTE</span>
+					</a>
+						</div>
+                     </div>
+                   </div>
+               </div>
+            </section>
+       
+
+        <section class="padT100 padB100">
+            <div class="container" style="background-color: #f7f7f7;">
+                <div class="row">
+                    <figure class="commercilatoptoplevel">
+                       <div class="pull-left col-md-4 toplevelbody">
+                           <h3>Strike the balance with simple steps:</h3>
+                           <h4><i class="fa fa-hand-o-right" aria-hidden="true"></i> &nbsp;No obligation visit</h4>
+						   <h4><i class="fa fa-hand-o-right" aria-hidden="true"></i> &nbsp;Analysis and quote</h5>
+						   <h4><i class="fa fa-hand-o-right" aria-hidden="true"></i> &nbsp;Integration & after sales services</h5>
+                          
+                       </div>
+                    </figure>
+                </div>
+              
+               
+                 <div class="row">
+                    <figure class="commercilatopbottomlevel">
+                       <div class="text-center">
+                           <br><br/><br><br/>
+                           <h2>STRIKE THE BALANCE WITH SIMPLE STEPS:</h2>
+                           <h4><b>Step 1 -  NO OBLIGATION VISIT</b></h4>
+                           <p>We’ll take the time to understand your energy requirements and business objectives</p>
+                           <br>
+                           <h4><b>Step 2 - ANALYSIS AND QUOTE</b></h4>
+                           <p>We'll complete an economic analysis for your business, so we have the right information to provide you with a customised proposal.</p>
+                           <br>
+                           <h4><b>Step 3 - INTEGRATION & AFTER SALES SERVICES</b></h4>
+                           <p>We’ll manage everything, including design, permitting, Government incentives, installation and interconnection.</p>
+                           
+                       </div>
+                    </figure>
+                </div>
+            </div>
+          
+        </section>
+		</div>
+	</main> <!-- cd-content -->
+                    </div>
+            </div>
+        </section>
+		<section>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="qout">
+				<span class="tagline-title" style="color:#ffffff" !important;="">Insulate yourself from rising electricity prices</span>
+					<a href="contact.html" class="btn btn-primary">Get A Quote</a>
+				</div>
+			</div>
+		</div>
+		</section>
+        <!--//================Portfolio end==============//-->
+        <div class="clear"></div>
+        <!--//================Footer start==============//-->
+                              <footer class="main_footer">
+            <div class="top_footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="footer-box">
+                            <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="foot-sec">
+                                     <a href="index.html" class="footer-logo">
+                                        <h4 style="color:white;">Sungeetha </h4>
+<!--                                        <img class="site_logo" alt="Site Logo"  src="assets/img/logo.png" />-->
+                                    </a>
+                                    <p>Sungeetha Green Energy Solutions Team has years of experience in Solar industry, providing professional advise and services with an outstanding reputation for high quality installation. We use only high quality components and our products are tested for high level of reliability and quality for serving Indian market.</p><ul class="social-icon">
+                                         <li><a href="#"><span><i class="fa fa-facebook" aria-hidden="true"></i></span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                             <div class="col-md-2 col-sm-3 col-xs-12">
+                                <div class="foot-sec">
+                                    <h4 style="color:white;">Company</h4><br>
+                                     <ul>
+                                        <li><a href="about.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>About Us</a></li>
+                                        <li><a href="why-solar.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Why Solar</a></li>
+                                        <li><a href="Did-you-Know.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Did you Know</a></li>
+                                        
+                                        <li><a href="Economics-Of-Solar.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Economics Of Solar</a></li>
+                                     <li><a href="How-Green-Are-Our-Systems.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>How Green Are Our Systems</a></li>
+                                   
+									</ul>
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-3 col-xs-12">
+                                <div class="foot-sec">
+                                    <h4 style="color:white;">Solutions</h4><br>
+                                     <ul>
+                                        <li><a href="domentic.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Domestic</a></li>
+                                        <li><a href="commercila.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Commercial</a></li>
+                                        <li><a href="power.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Power plant </a></li>
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-3 col-xs-12">
+                                 <div class="foot-sec">
+                                   <h4 style="color:white;">Products</h4><br>
+                                     <ul>
+                                        <li><a href="solar-system.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Solar System</a></li>
+                                        <li><a href="head-pump.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Heat Pump</a></li>
+                                        <li><a href="Packages.html" class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Special Packages</a></li>
+                                       </ul>
+                                </div>
+                            </div>
+                             <div class="col-md-2 col-sm-2 col-xs-12">
+                                 <div class="foot-sec">
+                                     <h4 style="color:white;">Contact us</h4><br>
+                                      <ul>
+                                        <li><a href="contact.php"  class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Contact Us</a></li>
+                                          <li><a href="contact.php"  class="footera"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i></span>Customer Enquiry</a></li>
+                                       
+                                       </ul>
+                                    
+                               <p><a href="Friend.html" class="footera" style="text-align:center;"><img src="assets/img/blog/refer-a-friend-png-0.png" class="refrsima"/><br>Click here</a></p>
+                                     
+                                  </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             <div class="top_footers">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+                            <ul class="termandcondtiopn text-center">
+                                        <li class="termandcondtiopn"><a href="terms-and-conditions.html" class="footera">Term & condtions</a></li>
+                                        <li class="termandcondtiopn"><a href="privacy.html" class="footera">Privacy Statement</a></li>
+                                         <li class="termandcondtiopn"><a href="complaint-process.html" class="footera">FQA</a></li>
+                                         <li class="termandcondtiopn"><a href="dmca.html" class="footera">Warranty</a></li>
+                                        <li class="termandcondtiopn"><a href="contact.html" class="footera">Feedback</a></li>
+                                    </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bottom-footer padTB20">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+                            <p>Copyright 2017  All Right Reserved <a href="http://www.svarks.com/"><span class="theme-color">Svarks</span></a></p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </footer>
+        
+     
+
+        <!--//================Footer end==============//--> 
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/plugin/megamenu/js/hover-dropdown-menu.js"></script>
+        <script src="assets/plugin/megamenu/js/jquery.hover-dropdown-menu-addon.js"></script>
+        <script src="assets/plugin/owl-carousel/js/owl.carousel.min.js"></script>
+        <script src="assets/plugin/fancyBox/js/jquery.fancybox.pack.js"></script>
+        <script src="assets/plugin/fancyBox/js/jquery.fancybox-media.js"></script> 
+        <script src="assets/plugin/mixItUp/js/jquery.mixitup.js"></script>        
+        <script src="assets/js/main.js"></script>
+        <script>
+
+jQuery(document).ready(function($){
+	var introSection = $('#cd-intro-background'),
+		introSectionHeight = introSection.height(),
+		//change scaleSpeed if you want to change the speed of the scale effect
+		scaleSpeed = 0.3,
+		//change opacitySpeed if you want to change the speed of opacity reduction effect
+		opacitySpeed = 1; 
+	
+	//update this vale if you change this breakpoint in the style.css file (or _layout.scss if you use SASS)
+	var MQ = 1170;
+
+	triggerAnimation();
+	$(window).on('resize', function(){
+		triggerAnimation();
+	});
+
+	//bind the scale event to window scroll if window width > $MQ (unbind it otherwise)
+	function triggerAnimation(){
+		if($(window).width()>= MQ) {
+			$(window).on('scroll', function(){
+				//The window.requestAnimationFrame() method tells the browser that you wish to perform an animation- the browser can optimize it so animations will be smoother
+				window.requestAnimationFrame(animateIntro);
+			});
+		} else {
+			$(window).off('scroll');
+		}
+	}
+	//assign a scale transformation to the #cd-background element and reduce its opacity
+	function animateIntro () {
+		var scrollPercentage = ($(window).scrollTop()/introSectionHeight).toFixed(5),
+			scaleValue = 1 - scrollPercentage*scaleSpeed;
+		//check if the #cd-background is still visible
+		if( $(window).scrollTop() < introSectionHeight) {
+			introSection.css({
+			    '-moz-transform': 'scale(' + scaleValue + ') translateZ(0)',
+			    '-webkit-transform': 'scale(' + scaleValue + ') translateZ(0)',
+				'-ms-transform': 'scale(' + scaleValue + ') translateZ(0)',
+				'-o-transform': 'scale(' + scaleValue + ') translateZ(0)',
+				'transform': 'scale(' + scaleValue + ') translateZ(0)',
+				'opacity': 1 - scrollPercentage*opacitySpeed
+			});
+		}
+	}
+
+	/********************************
+		open/close submenu on mobile
+	********************************/
+	$('.cd-main-nav').on('click', function(event){
+		if($(event.target).is('.cd-main-nav')) $(this).children('ul').toggleClass('is-visible');
+	});
+});
+        </script>
+    </body>
+
+</html>

@@ -1,0 +1,634 @@
+[18-Nov-2019 17:46:05 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Publicharging1.php on line 4
+[18-Nov-2019 17:46:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Publicharging1.php on line 4
+[18-Nov-2019 17:47:18 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Publicharging1.php on line 4
+[18-Nov-2019 17:47:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Publicharging1.php on line 4
+[18-Nov-2019 17:47:59 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Publicharging1.php on line 4
+[18-Nov-2019 17:47:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Publicharging1.php on line 4
+[18-Nov-2019 17:51:06 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[18-Nov-2019 17:51:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[18-Nov-2019 17:58:22 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[18-Nov-2019 17:58:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[18-Nov-2019 18:00:41 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[18-Nov-2019 18:00:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[18-Nov-2019 18:01:33 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[18-Nov-2019 18:01:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[18-Nov-2019 18:41:27 UTC] PHP Parse error:  syntax error, unexpected ''fname'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/config/config.php on line 22
+[18-Nov-2019 18:41:30 UTC] PHP Parse error:  syntax error, unexpected ''fname'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/config/config.php on line 22
+[18-Nov-2019 18:41:45 UTC] PHP Parse error:  syntax error, unexpected ''fname'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/config/config.php on line 22
+[18-Nov-2019 18:41:55 UTC] PHP Parse error:  syntax error, unexpected ''fname'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/config/config.php on line 22
+[19-Nov-2019 16:13:04 UTC] PHP Notice:  Undefined index: Electric-vehicle in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 20
+[19-Nov-2019 16:13:04 UTC] PHP Notice:  Undefined index: form-lname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 16:13:04 UTC] PHP Notice:  Undefined index: form-company in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 16:15:32 UTC] PHP Notice:  Undefined index: Electric-vehicle in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 20
+[19-Nov-2019 16:15:32 UTC] PHP Notice:  Undefined index: form-lname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 16:15:32 UTC] PHP Notice:  Undefined index: form-company in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 16:40:37 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 27
+[19-Nov-2019 16:40:37 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 33
+[19-Nov-2019 16:40:57 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 27
+[19-Nov-2019 16:40:57 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 33
+[19-Nov-2019 16:41:26 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 27
+[19-Nov-2019 16:41:26 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 33
+[19-Nov-2019 16:41:34 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 27
+[19-Nov-2019 16:41:34 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 33
+[19-Nov-2019 16:43:04 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 27
+[19-Nov-2019 16:43:04 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 33
+[19-Nov-2019 16:46:24 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 27
+[19-Nov-2019 16:46:24 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 33
+[19-Nov-2019 16:46:30 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 27
+[19-Nov-2019 16:46:30 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 33
+[19-Nov-2019 16:46:43 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 27
+[19-Nov-2019 16:46:43 UTC] PHP Notice:  Undefined variable: subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 33
+[19-Nov-2019 16:47:49 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 16:47:49 UTC] PHP Notice:  Undefined index: form-fname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 16:47:49 UTC] PHP Notice:  Undefined index: form-fphone in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 16:47:53 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 16:47:53 UTC] PHP Notice:  Undefined index: form-fname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 16:47:53 UTC] PHP Notice:  Undefined index: form-fphone in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 16:48:07 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 16:48:07 UTC] PHP Notice:  Undefined index: form-fname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 16:48:07 UTC] PHP Notice:  Undefined index: form-fphone in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 16:49:04 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 16:49:05 UTC] PHP Notice:  Undefined index: form-fname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 16:49:05 UTC] PHP Notice:  Undefined index: form-fphone in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 16:56:33 UTC] PHP Notice:  Undefined index: form-lname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 16:56:33 UTC] PHP Notice:  Undefined index: form-company in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 16:56:39 UTC] PHP Notice:  Undefined index: form-lname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 16:56:39 UTC] PHP Notice:  Undefined index: form-company in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 17:02:40 UTC] PHP Notice:  Undefined index: form-select in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 20
+[19-Nov-2019 17:10:06 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 17:10:47 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 17:12:56 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 17:15:12 UTC] PHP Notice:  Undefined index: form-select in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 20
+[19-Nov-2019 17:15:12 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 17:15:33 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 17:17:07 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 17:17:20 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 17:19:16 UTC] PHP Notice:  Undefined index: form-subject in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 21
+[19-Nov-2019 17:19:16 UTC] PHP Notice:  Undefined index: form-fname in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 23
+[19-Nov-2019 17:19:16 UTC] PHP Notice:  Undefined index: form-fphone in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/getstart.php on line 24
+[19-Nov-2019 17:50:38 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 17:50:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 17:50:51 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 17:50:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 17:50:56 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 17:50:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 17:52:29 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 17:52:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:02:34 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:02:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:07:38 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:07:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:07:49 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:07:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:07:52 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:07:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:07:55 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:07:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:09:49 UTC] PHP Notice:  Undefined variable: code in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 67
+[19-Nov-2019 18:09:52 UTC] PHP Notice:  Undefined variable: code in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 67
+[19-Nov-2019 18:15:00 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:15:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:15:27 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:15:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:18:49 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:18:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:18:52 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:18:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:19:01 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:19:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:19:06 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:19:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:20:44 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:20:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:20:49 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[19-Nov-2019 18:20:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/publicharging1.php on line 4
+[20-Nov-2019 16:45:41 UTC] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 25
+[20-Nov-2019 16:59:59 UTC] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 25
+[20-Nov-2019 17:00:11 UTC] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 25
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargingTelephone in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 7
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: Community_chargings in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 9
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargingsLastName in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 11
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargingsEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 14
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargingsnoof2wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 17
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargingsnoflasta in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 19
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargingscommunityuse in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 22
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargings4wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 25
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargingsnormalcharger in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 28
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: communitychargingsapartmentno4wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 31
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined index: ElectricvehicleEmails in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 34
+[20-Nov-2019 17:01:34 UTC] PHP Notice:  Undefined variable: email in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: communitychargingTelephone in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 9
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: Community_chargings in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 11
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: communitychargingsLastName in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 13
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: communitychargingsEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 16
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: communitychargingsnoof2wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 19
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: communitychargingsnoflasta in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 21
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: communitychargingscommunityuse in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 24
+[20-Nov-2019 17:27:28 UTC] PHP Notice:  Undefined index: communitychargings4wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 27
+[20-Nov-2019 17:27:29 UTC] PHP Notice:  Undefined index: communitychargingsnormalcharger in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 30
+[20-Nov-2019 17:27:29 UTC] PHP Notice:  Undefined index: communitychargingsapartmentno4wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 33
+[20-Nov-2019 17:27:29 UTC] PHP Notice:  Undefined index: ElectricvehicleEmails in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 36
+[20-Nov-2019 17:27:29 UTC] PHP Notice:  Undefined variable: email in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargingTelephone in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 9
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: Community_chargings in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 11
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargingsLastName in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 13
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargingsEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 16
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargingsnoof2wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 19
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargingsnoflasta in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 21
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargingscommunityuse in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 24
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargings4wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 27
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargingsnormalcharger in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 30
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: communitychargingsapartmentno4wheelers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 33
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined index: ElectricvehicleEmails in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 36
+[20-Nov-2019 17:30:02 UTC] PHP Notice:  Undefined variable: email in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[20-Nov-2019 17:37:45 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[20-Nov-2019 17:37:45 UTC] PHP Notice:  Undefined variable: email in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[20-Nov-2019 17:38:01 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[20-Nov-2019 17:38:01 UTC] PHP Notice:  Undefined variable: email in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[20-Nov-2019 17:43:08 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[20-Nov-2019 17:43:26 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[20-Nov-2019 17:55:22 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[20-Nov-2019 17:57:02 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[20-Nov-2019 18:09:09 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:44:09 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:44:09 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:44:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:44:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:44:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:44:09 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:44:09 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:44:09 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:44:23 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:44:23 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:44:23 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:44:23 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:44:23 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:44:23 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:44:23 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:44:23 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:44:36 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:44:36 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:44:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:44:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:44:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:44:36 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:44:36 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:44:36 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:44:49 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:44:49 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:44:49 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:44:49 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:44:49 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:44:49 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:44:49 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:44:49 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:44:56 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:44:56 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:44:56 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:44:56 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:44:56 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:44:56 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:44:56 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:44:56 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:47:08 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:47:08 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:47:08 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:47:08 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:47:08 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:47:08 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:47:08 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:47:08 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:47:26 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:47:26 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:47:26 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:47:26 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:47:26 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:47:26 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:47:26 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:47:26 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:47:40 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:47:40 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:47:40 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:47:40 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:47:40 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:47:40 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:47:40 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:47:40 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:51:36 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 17:51:36 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 17:51:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 17:51:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 17:51:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 17:51:36 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 17:51:36 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:51:36 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:58:02 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 17:58:02 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:58:02 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:58:02 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 17:58:02 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 17:58:02 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 17:58:02 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 17:58:02 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 17:58:45 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 17:58:45 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:58:45 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:58:45 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 17:58:45 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 17:58:45 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 17:58:45 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 17:58:45 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 17:59:39 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 17:59:39 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 17:59:39 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 17:59:39 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 17:59:39 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 17:59:39 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 17:59:39 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 17:59:39 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:01:00 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 18:01:00 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:01:00 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:01:00 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 18:01:00 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 18:01:00 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 18:01:00 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 18:01:00 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:01:38 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 18:01:38 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:01:38 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:01:38 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 18:01:38 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 18:01:38 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 18:01:38 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 18:01:38 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:01:57 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 18:01:57 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:01:57 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:01:57 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 18:01:57 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 18:01:57 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 18:01:57 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 18:01:57 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:02:17 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 18:02:17 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:02:17 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:02:17 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 18:02:17 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 18:02:17 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 18:02:17 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 18:02:17 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:04:41 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 18:04:41 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:04:41 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:04:41 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 18:04:41 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 18:04:41 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 18:04:41 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 18:04:41 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:10:12 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 18:10:12 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:10:12 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:10:12 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 18:10:12 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 18:10:12 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 18:10:12 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 18:10:12 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:15:34 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 174
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined index: Electricvehicless in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 15
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 62
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 64
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 66
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 68
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 70
+[22-Nov-2019 18:19:06 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 174
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined index: Electricvehicless in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:20:05 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined index: Electricvehicless in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:20:42 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined index: Electricvehicless in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined index: parkinglotmaxnoof4wheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:21:15 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined index: Electricvehicless in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:38:15 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined index: Electricvehicless in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:38:43 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined index: Electricvehicless in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:39:11 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined index: Electricvehicless in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:39:38 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[22-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 5
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 48
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 50
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 52
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 54
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 56
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 58
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 60
+[23-Nov-2019 08:45:07 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/Communitycharging1.php on line 175
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 5
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 08:58:50 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 192
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 5
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 09:00:20 UTC] PHP Notice:  Undefined variable: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 192
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 5
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 09:05:13 UTC] PHP Notice:  Undefined variable:  in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 192
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 5
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 09:07:42 UTC] PHP Notice:  Undefined variable:  in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 192
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 5
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 09:11:44 UTC] PHP Notice:  Undefined variable:  in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 192
+[23-Nov-2019 09:17:00 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 5
+[23-Nov-2019 09:17:00 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 09:17:00 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 09:17:00 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 09:17:00 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 09:17:00 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 09:17:00 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 09:17:00 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 09:17:10 UTC] PHP Notice:  Undefined index: Electricvehicles in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 5
+[23-Nov-2019 09:17:11 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 09:17:11 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 09:17:11 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 09:17:11 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 09:17:11 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 09:17:11 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 09:17:11 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:11:06 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:11:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:11:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:11:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoof4wheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:11:06 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:11:06 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:11:06 UTC] PHP Notice:  Undefined index: corporatecompanynofo4wheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:26:39 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:26:39 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:26:39 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:26:39 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:26:39 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:26:39 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:26:39 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:27:06 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:27:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:27:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:27:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:27:06 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:27:06 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:27:06 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:27:19 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:27:19 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:27:19 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:27:19 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:27:19 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:27:19 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:27:19 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:27:28 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:27:28 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:27:28 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:27:28 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:27:28 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:27:28 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:27:28 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:27:36 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:27:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:27:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:27:36 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:27:36 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:27:36 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:27:36 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:27:54 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:27:54 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:27:54 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:27:54 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:27:54 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:27:54 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:27:54 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:28:04 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:28:04 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:28:04 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:28:04 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:28:04 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:28:04 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:28:04 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:33:13 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:33:13 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:33:13 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:33:13 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:33:13 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:33:13 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:33:14 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:48:50 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:48:50 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:48:50 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:48:50 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:48:50 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:48:50 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:48:50 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:50:06 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:50:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:50:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:50:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:50:06 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:50:06 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:50:06 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:51:09 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:51:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:51:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:51:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:51:09 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:51:09 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:51:09 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:52:40 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:52:40 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:52:40 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:52:40 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:52:40 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:52:40 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:52:40 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:55:08 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:55:08 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:55:08 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:55:08 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:55:08 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:55:08 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:55:08 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:55:55 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:55:55 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:55:55 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:55:55 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:55:55 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:55:55 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:55:55 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 10:59:47 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 10:59:47 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 10:59:47 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 10:59:47 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 10:59:47 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 10:59:47 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 10:59:47 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 11:14:09 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 11:14:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 11:14:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 11:14:09 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 11:14:09 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 11:14:09 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 11:14:09 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 11:18:57 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 11:18:57 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 11:18:57 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 11:18:57 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 11:18:57 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 11:18:57 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 11:18:57 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 11:21:19 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 11:21:19 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 11:21:19 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 11:21:19 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 11:21:19 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 11:21:19 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 11:21:19 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 11:28:42 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 11:28:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 11:28:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 11:28:42 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 11:28:42 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 11:28:42 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 11:28:42 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 11:37:06 UTC] PHP Notice:  Undefined index: corporatecompanynofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 11:37:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 11:37:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 11:37:06 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 11:37:06 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 11:37:06 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 11:37:06 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 11:40:53 UTC] PHP Notice:  Undefined index: corporatecompanynofofourwheelrss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 59
+[23-Nov-2019 11:40:53 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 62
+[23-Nov-2019 11:40:53 UTC] PHP Notice:  Undefined index: shoppingcomplexnormalchargerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 65
+[23-Nov-2019 11:40:53 UTC] PHP Notice:  Undefined index: shoppingcomplexnoofwheelerss in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 68
+[23-Nov-2019 11:40:53 UTC] PHP Notice:  Undefined index: parkinglotnofochargess in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 71
+[23-Nov-2019 11:40:53 UTC] PHP Notice:  Undefined index: parkinglotfastchargers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 74
+[23-Nov-2019 11:40:53 UTC] PHP Notice:  Undefined index: parkinglotmaxnoofwheerlsers in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/communitycharging1.php on line 77
+[23-Nov-2019 12:18:45 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/domentic1.php on line 4
+[23-Nov-2019 12:18:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/domentic1.php on line 4
+[23-Nov-2019 12:28:48 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/power1.php on line 3
+[23-Nov-2019 12:28:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/power1.php on line 3
+[23-Nov-2019 13:37:38 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 13:38:47 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 14:39:16 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 14:40:36 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 14:47:46 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 14:52:35 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 14:53:07 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 15:13:18 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 15:14:54 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 15:15:58 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
+[23-Nov-2019 15:16:27 UTC] PHP Notice:  Undefined index: DomenticEmail in /home/vier9ju0zn0q/public_html/sungeetha-test.scanbarcodes.in/ev/heatpump1.php on line 25
